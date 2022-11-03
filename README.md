@@ -1,2 +1,2 @@
 # TweetMyWearable
-Code for sending Cheerlights to a costume or other wearable
+Code for sending CheerLights to a costume or other wearable
